@@ -7,6 +7,7 @@ const App = () => {
       <h1 id='child2'>Hello</h1>
       
     </div>
+    
   )
 }
 
